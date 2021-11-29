@@ -1,0 +1,3 @@
+- Original images taken from https://en.wikipedia.org/wiki/Standard_52-card_deck
+- Original deck back from https://commons.wikimedia.org/wiki/File:Aluette_card_deck_-_Grimaud_-_1858-1890_-_Back_side.jpg
+- converted in gifs by imagemagick convert command
